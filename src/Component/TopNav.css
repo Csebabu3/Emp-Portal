@@ -1,0 +1,52 @@
+.topnav{
+    width: 200px;
+    height: 70px;
+}
+.relative{
+    position: relative;
+   
+.absolute{
+    position: absolute;
+}
+}
+.item{
+    margin-right: 80px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.navbar-nav a:hover {
+    color: white;
+     /* background-color: red; */
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+/* .dropdown-menu .dropdown-item{
+    width: 200px;
+} */
+.dropdown-menu .dropdown-item{
+    font-weight: 500;
+}
+
+/* .dropdown-menu{
+    box-shadow: 5px 2px 5px;
+} */
+
+ul li a :hover{
+    background-color: yellow;
+    color: red;
+}
+/* CSS */
+.dropdown-menu:hover {
+    background-color: #f0f0f0; /* Change to your desired color */
+}
+/* .dropdown-menu.dropdown-item {
+    display: block;
+    width: 100%;
+    transition: width 2s; 
+}
+
+.dropdown-menu.dropdown-item:hover {
+    width: 300px; 
+}
+ */
